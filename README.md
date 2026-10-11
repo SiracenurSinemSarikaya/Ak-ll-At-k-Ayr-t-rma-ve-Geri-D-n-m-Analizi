@@ -3,4 +3,4 @@ PYTHON PROGRAMLAMA PROJESİ| Bu proje, atıkların türlerine göre sınıfland�
 Amaçlarımız
 - Atıkları türlerine göre sınıflandırmak.
 - Geri dönüşüm verilerini analiz etmek.
-- Çevre bilincini desteklemek.
+- Çevre bilincini desteklemek:)
